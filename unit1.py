@@ -1,6 +1,6 @@
 __author__ = 'Anaelys'
 
-# A simple program illustrating chaotic behavior
+# A simple program illustrating chaotic behavior.
 
 
 # def main():
